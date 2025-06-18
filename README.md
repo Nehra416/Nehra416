@@ -35,7 +35,7 @@
 ### 💡 Featured Projects
 
 - 🔹 [PlayBox – Video Streaming plateform](https://github.com/Nehra416/PlayBox)
-- 🔹 [QuickTalk - Real-Time Chat App](https://github.com/Nehra416/ChatApp)
+- 🔹 [QuickTalk - Real-Time Chat App](https://github.com/Nehra416/Chat_web)
 - 🔹 [Academy Portfolio (Next.js)](https://github.com/Nehra416/Academy_Nextjs)
 
 ---
