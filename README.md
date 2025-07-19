@@ -11,7 +11,7 @@
 
 ### 🚀 About Me
 
-- 🔭 Currently focused on sharpening my full-stack development skills.
+- 🔭 Currently focused on sharpening my full-stack development skills and Open to Work.
 - 🤝 Open to collaboration on meaningful and impactful tech projects.
 - 👯 Actively looking to contribute on Open Source Projects
 - 💬 Ask me about Full Stack MERN Development and tech realted
@@ -25,15 +25,24 @@
 
 ### 🧠 Tech Stack & Tools
 
-<div align="center" >
-  <img src="https://skillicons.dev/icons?i=js,html,react,nodejs,express,mongodb,tailwind,redux,docker,git,github,vscode,postman,cpp,bootstrap" />
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=react,next,ts,nodejs,express,mongodb,redux,docker,git,github,html,css,js,tailwind,vscode,postman,cpp,bootstrap" />
 </div>
+
+### 🚀 Other Tools & Libraries
+
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=for-the-badge&logo=zustand&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge&logo=api&logoColor=white)
+![WebSocket](https://img.shields.io/badge/WebSocket-35495E?style=for-the-badge&logo=websockets&logoColor=white)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-111827?style=for-the-badge&logo=tailwindcss&logoColor=white)
 
 
 ---
 
 ### 💡 Featured Projects
 
+- 🔹 [Anonify – Send anonimus feedback in seconds. No Login!](https://github.com/Nehra416/anonify)
 - 🔹 [PlayBox – Video Streaming plateform](https://github.com/Nehra416/PlayBox)
 - 🔹 [QuickTalk - Real-Time Chat App](https://github.com/Nehra416/Chat_web)
 - 🔹 [Academy Portfolio (Next.js)](https://github.com/Nehra416/Academy_Nextjs)
